@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414813016432",
+    "project_id": "campusbuzz-f9228",
+    "storage_bucket": "fotwave-a1698.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414813016432:android:c6077f1c43cb7650a3ffb5",
+        "android_client_info": {
+          "package_name": "com.fotnews.campusbuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdArqYMuohgs7DMaxTLxmJQNuQKVaB2j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

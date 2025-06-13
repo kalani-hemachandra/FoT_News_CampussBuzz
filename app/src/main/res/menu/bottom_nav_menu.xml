@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_sports"
+        android:icon="@drawable/ic_sports"
+        android:title="@string/sports" />
+
+    <item
+        android:id="@+id/tab_academics"
+        android:icon="@drawable/ic_academics"
+        android:title="@string/academics" />
+
+    <item
+        android:id="@+id/tab_faculty"
+        android:icon="@drawable/ic_faculty"
+        android:title="@string/faculty" />
+
+</menu>
